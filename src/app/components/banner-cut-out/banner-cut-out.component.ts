@@ -7,5 +7,5 @@ import { Component, Input } from "@angular/core";
 })
 export class BannerCutOutComponent {
   @Input() public imageUrl = "assets/back-1.jpg";
-  @Input() public title = "100 Angular Challenge";
+  @Input() public title = "Insert Title";
 }
